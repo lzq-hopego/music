@@ -2,7 +2,7 @@
 
 ## 说明
 
-多站合一音乐搜索解决方案，由（https://github.com/lzq-hopego/music）后期优化和修复，支持搜索试听以下网站音乐：
+多站合一音乐搜索解决方案,后期优化和修复，支持搜索试听以下网站音乐：
 
 [网易云音乐](http://music.163.com) [QQ音乐](http://y.qq.com) [酷狗音乐](http://www.kugou.com) [酷我音乐](http://www.kuwo.cn) [虾米音乐](http://www.xiami.com) [百度音乐](http://music.baidu.com) [一听音乐](http://www.1ting.com) [咪咕音乐](http://music.migu.cn) [荔枝FM](http://www.lizhi.fm) [蜻蜓FM](http://www.qingting.fm) [喜马拉雅FM](http://www.ximalaya.com) [5sing原创](http://5sing.kugou.com/yc) [5sing翻唱](http://5sing.kugou.com/fc)
 
